@@ -1,6 +1,6 @@
 NSW_Department_casestudy
 importing data sets all three
-3 datasets are:
+ datasets are:
  1. 2022-attendance-data-final.csv
  2. 2022-multi-age_composite-classes-final.csv
  3. master_dataset.csv 
