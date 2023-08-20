@@ -1,9 +1,9 @@
 1. NSW_Department_casestudy
 2. importing data sets all three
 3. datasets are:
- 1. 2022-attendance-data-final.csv
- 2. 2022-multi-age_composite-classes-final.csv
- 3. master_dataset.csv 
+ a. 2022-attendance-data-final.csv
+ b. 2022-multi-age_composite-classes-final.csv
+ c. master_dataset.csv 
 4. Load the three datasets
 5. Cleaning the datasets - Cleaning the "na", "sp","np", 'NULL" and bad data from the datasets
 6. Merge datasets based on school_code
